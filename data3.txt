@@ -1,65 +1,180 @@
-{
-	"ADS": {
-		 "rewarde_type": "admob",
-		"native_type": "admob",
-		"inter_type": "admob",
-		"banner_type": "admob",
+{ "ADS":
+    {
+  
+       "cpa_image":"yandex",
+      "cpa_title":"yandex",
+      "cpa_sous_title":"yandex",
+      "cpa_url":"yandex",
+      "show_cpa":false,
+
+      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
+        
+        
+      "banner_type":"admob",
+      "inter_type":"admob",
+      "native_type":"admob",
+      "reward_type":"admob",
+      
+
+      "ironsource_id":"jhd78302",
+      "unity_id":"87320283",
+     
+
+      "banner_yandex":"R-M-DEMO-300x50",
+      "native_yandex":"R-M-DEMO-interstitial",
+      "interstitial_yandex":"R-M-DEMO-native-i",
+      "rewarde_yandex":"R-M-DEMO-300x50",
+
+      "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
+       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
+
+      "applovin_banner":"R-M-DEMO-300x50",
+      "applovin_interstitial":"R-M-DEMO-interstitial",
+      "applovin_reward":"R-M-DEMO-native-i",
+      "applovin_native":"R-M-DEMO-300x50",
+
+      "facebook_banner":"R-M-DEMO-interstitial",
+      "facebook_interstitial":"R-M-DEMO-native-i",
+      "facebook_reward":"R-M-DEMO-300x50",
+      "facebook_native":"R-M-DEMO-interstitial"
+
+  
+    },
+    "skins": [
+    {
+      "imageUrl": "https://iili.io/bskzXt.jpg",
+      "title": "pixelmon minecraft pe 1.18 pack  1",
+      "likeNumbers": "2220 LIKES",
+      "commentNumbers": " 3335 COMMENTS",
+      "downloadNumbers": "44455 DOWNLOADS",
+      "description": "This mod adds is content the lasted version od pixelmon minecraft pe 1.18 pack  1  MOD  1  for minecarft game  FOR mcpe  GAME AND IS TOTALY FREE TO CLAIM IT CLICK BELOW IN THE BUTOM"
+       
+
+
+      
+    },
+    {
+      "imageUrl": "https://iili.io/bskILX.jpg",
+      "title": "pixelmon minecraft pe 1.18 pack 2",
+      "likeNumbers": "2225 LIKES",
+      "commentNumbers": " 3363 COMMENTS",
+      "downloadNumbers": "14474 DOWNLOADS",
+      "description": "This mod adds is content the lasted version od  pixelmon minecraft pe 1.18 pack   MOD  2 for minecarft  GAME AND IS TOTALY FREE TO CLAIM IT CLICK BELOW IN THE BUTOM "
+       
+
+      
+    },
+    {
+      "imageUrl": "https://iili.io/bskRrG.jpg",
+      "title": "pixelmon minecraft pe 1.18 pack 3",
+      "likeNumbers": "224412 LIKES",
+      "commentNumbers": " 311133 COMMENTS",
+      "downloadNumbers": "44444 DOWNLOADS",
+      "description": "This mod adds is content the lasted version of   pixelmon minecraft pe 1.18 pack  3 for minecarft game FOR  melon playground  GAME AND IS TOTALY FREE TO CLAIM IT CLICK BELOW IN THE BUTOM"
+       
+
+      
+    }
+    ,{
+      "imageUrl": "https://iili.io/bskuBn.jpg",
+      "title": "pixelmon minecraft pe 1.18 pack 4",
+      "likeNumbers": "22112 LIKES",
+      "commentNumbers": " 33743 COMMENTS",
+      "downloadNumbers": "4474 DOWNLOADS",
+      "description": "This mod adds is content the lasted version of pixelmon minecraft pe 1.18 pack   MOD  4 for minecarft game FOR  melon playground  GAME AND IS TOTALY FREE TO CLAIM IT CLICK BELOW IN THE BUTOM"
+       
+
+
+      
+    },
+    {
+      "imageUrl": "https://iili.io/bsk72f.jpg",
+      "title": "pixelmon minecraft pe 1.18 pack 5",
+      "likeNumbers": "22274 LIKES",
+      "commentNumbers": " 3433 COMMENTS",
+      "downloadNumbers": "44447 DOWNLOADS",
+      "description": "This mod adds is content the lasted version of pixelmon minecraft pe 1.18 pack   MOD  5 for minecarft game GAME AND IS TOTALY FREE TO CLAIM IT CLICK BELOW IN THE BUTOM"
+       
+    },
+    {
+      "imageUrl": "https://iili.io/bskY74.jpg",
+      "title": "pixelmon minecraft pe 1.18 pack   6",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 33773 COMMENTS",
+      "downloadNumbers": "44222 DOWNLOADS",
+      "description": "This mod adds is content the lasted version od pixelmon minecraft pe 1.18 pack   MOD 6 for minecarft game GAME AND IS TOTALY FREE TO CLAIM IT CLICK BELOW IN THE BUTOM "
+     
+    },
+    {
+      "imageUrl": "https://iili.io/bskILX.jpg",
+      "title": "pixelmon minecraft pe 1.18 pack  7",
+      "likeNumbers": "2227 LIKES",
+      "commentNumbers": " 3343 COMMENTS",
+      "downloadNumbers": "4444 DOWNLOADS",
+      "description": "This mod adds is content the lasted version Of  pixelmon minecraft pe 1.18 pack   MOD  7 FOR minecraft game  GAME AND IS TOTALY FREE TO CLAIM IT CLICK BELOW IN THE BUTOM"
+       
+    }
+  ], "Apps": [
+    {
+      
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+      
+    },
+    { 
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+      
+    },
+    {
+      
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+      
+    }
+    ,{
+       
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+      
+    },
+    {
+       
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+    },
+    {
+       
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+    },
+    {
+      
+      "title": "Lorem 1",
+      "image": "https://wallpaper.dog/large/20487356.jpg",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+    }
+  ]
  
-		"unity_id": "4292105",
-
- 
-		"ironsource_id": "11c7e1165",
-		"appodeal_app_key": "11c7e1165",
-
-		"cpa_image": "sds",
-		"cpa_title": "sdcc",
-		"cpa_sous_title": "cpa_sous_title",
-		"cpa_url": "cpa_url",
-		"show_cpa":true,
-
-		"cpa_popup_image": "sds",
-		"cpa_popup_title": "sdcc",
-		"cpa_popup_sous_title": "cpa_sous_title",
-		"cpa_popup_url": "cpa_url",
-		"cpa_popup_timer":1,
-
-		"interstitial_yandex": "adf-279013/966533",
-		"banner_yandex": "adf-279013/966533",
-		"native_yandex": "adf-279013/966533",
-		"rewarde_yandex": "adf-279013/966487",
-
-		
-
-		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
-		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
-		"native_admob": "ca-app-pub-3940256099942544/2247696110",
-		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
-
-		"banner_admob1": "ca-app-pub-3940256099942544/6300978111",
-
-		"interstitial_admob1": "ca-app-p12",
-		"native_admob1": "ca-app-pub-567",
-		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
-		
-		"banner_admob2": "ca-app-pub-3940256099942544/6300978111",
-
-		"interstitial_admob2": "ca-app-pub-3940256099942544/1033173712",
-		"native_admob2": "ca-app-pub-567",
-		"rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
-
-		
-		"facebook_interstitial": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-		"facebook_native": "ca-app-pub-4567",
-		"facebook_banner": "ca-app-pub-4567",
-		"facebook_rewarde": "ca-app-pub-4567",
-
-		"facebook_interstitial1": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
-				"facebook_native1": "ca-app-pub-4567",
-		"facebook_rewarde1": "ca-app-pub-4567",
-
-		
-		"facebook_interstitial2": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-				"facebook_native2": "ca-app-pub-4567",
-		"facebook_rewarde2": "ca-app-pub-4567"
-	}  
-   }
+  }
